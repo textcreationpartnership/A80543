@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Copy-holders plea against the excess of fines, uncertain exacted of them by their lords upon their admittance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80543</idno>
+            <idno type="STC">Wing C6240</idno>
+            <idno type="STC">Thomason E724_4</idno>
+            <idno type="STC">Thomason E830_1</idno>
+            <idno type="STC">ESTC R207260</idno>
+            <idno type="EEBO-CITATION">99866324</idno>
+            <idno type="PROQUEST">99866324</idno>
+            <idno type="VID">168076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168076)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E724[4] or 126:E830[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Copy-holders plea against the excess of fines, uncertain exacted of them by their lords upon their admittance.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole in Leaden-Hall, and are to be sold at his shop at the sign of the Printing-press in Cornhil neer the Royal Exchange.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copies: copy E.724[4]: "Decemb: 13:"; copy E.830[1]: "March: 10", "March 10", "1654", the 3 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rent --  England --  Early works to 1800.</term>
+               <term>Estates (Law) --  England --  Cases --  Early works to 1800.</term>
+               <term>Copyhold --  Early works to 1800.</term>
+               <term>Real property --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168076:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>THE COPY-HOLDERS PLEA Againſt the Exceſs of Fines, Uncertain Exacted of them by THEIR LORDS Upon their <hi>ADMITTANCE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Peter Cole</hi> in <hi>Leaden-Hall,</hi> and are to be ſold at his Shop at the ſign of the <hi>Printing-preſs</hi> in <hi>Cornhil</hi> neer the Royal Exchange. 165<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <add>1654</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168076:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:168076:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>The Coppyholders Plea againſt the exceſs of Fines un<g ref="char:EOLhyphen"/>certain Exacted of them by their Lords upon their Admittance.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is agreed of al hands, That<note n="a" place="margin">Cook upon Littl. f. <hi>60.</hi> Cook <hi>11.</hi> Report, <hi>44.</hi>
+               </note> al exceſſiveneſs is abhorred in Law; and that<note n="b" place="margin">Cook upon Lit. f. <hi>59.</hi> b Cook <hi>4</hi> Rep. <hi>27.</hi> b.</note> where the Fine is uncertain, yet it muſt be reaſonable: and ſo doth the Pleading of the Cu<g ref="char:EOLhyphen"/>ſtome wherby ſuch a Fine is Alleadged to be due to the Lord plainly ſhew. As may be ſeen in the New Book of Entries, <hi>f.</hi> 646. <hi>b.</hi> in the Title to Treſpaſs: Whe<g ref="char:EOLhyphen"/>ther then 3 years Value, 2 years Value, a year and a half, or a years Value at a rack Rent, or thoſe Fines exacted by Lords in thoſe lat<g ref="char:EOLhyphen"/>ter Ages, may be thought to be reaſonable, is now to be diſcuſſed. For the true underſtanding of which, this Difference is to be well Obſerved, <hi>viz.</hi> Between voluntary Grants of Coppyhold Eſtates forfeited, or Eſcheated and Granted again <hi>de nono</hi> by the Lord, and Admittances upon Surrender to the uſe of another; or of the Hei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon a Diſcent. In the firſt Caſe the Lord may take what Fine he pleaſeth upon Admittance, being both Donor and Inſtrument to perfect his own Grant; for there it is truly ſaid, <hi>Arbitrio Dominires aeſtimari debet,</hi> That the thing is to be eſtimated at the Lords or Owners Will. But in the other Caſe, the Lord is but an Inſtrument to perfect the Surrender, or the Heirs Eſtate Diſcended to him, the Lord Granteth nor doth nothing, But what he is compelable to do
+<pb n="4" facs="tcp:168076:3"/>
+               <!-- PDF PAGE 87 -->by the Purchaſer or Heir, who are in by him which maketh the Surrender, or the Anceſter reſpectively after admittance, and not by the Lord; and therefore ſhal not be ſubject to the Charge or Incumbrances of the Lord, and alſo the admittance of a Diſſeiſor or other Lord which hath no good but a defeaſible Eſtate and Intereſt in the Mannor,<note place="margin">Cooks <hi>4</hi> Rep. <hi>27</hi> b. Ta<g ref="char:EOLhyphen"/>verner and Cromwels Caſe, &amp; <hi>28.</hi> b. in Weſt<g ref="char:EOLhyphen"/>wicks and Wyers Caſe.</note> ſhal bind him which hath Right after that he hath recontinued the Ma<g ref="char:cmbAbbrStroke">̄</g>nor by Action or Entry in ſuch caſe, otherwiſe it is of volun<g ref="char:EOLhyphen"/>tary Grants made by a Deſſeiſor or Tenant by Sufferance of a Mannor,<note n="d" place="margin">Cook <hi>4.</hi> Rep. <hi>24.</hi> Rouſ and Arters Caſe.</note> as may be ſeen in <hi>Chudleighs</hi> Caſe, <hi>Cook</hi>'s 1 <hi>Rep.</hi> 140. <hi>b.</hi> And in <hi>Clarks</hi> and <hi>Penifathers</hi> Caſe, <hi>Cook.</hi> 4. <hi>Rep. f.</hi> 23. <hi>b.</hi> and 24. where the Earl of <hi>Arundels</hi> Caſe <hi>T.</hi> 17. <hi>El. Dy.</hi> 343. is cited, and ſeveral good Caſes put upon this Difference, Omitting there<g ref="char:EOLhyphen"/>fore voluntary Grants upon Eſcheate or Forfeiture, and to ſpeak only of Admittances upon ſurrender, and diſcent, where the Lord giveth nothing, nothing paſſeth from him, he is only an In<g ref="char:EOLhyphen"/>ſtrument, and compellable to admit, and the Party admitted is not in by him, but by him which made the Surrender, or his Anceſtor, How can a ful yeers rack Rent, or thoſe Fines now exacted, and taken upon ſuch Admittance in latter ages be deemed or thought to be equal or reaſonable? In the new Book of Entries, in the title before cited, <hi>p.</hi> 3. <hi>fol.</hi> 644. <hi>b.</hi> you ſhal find that famous Caſe adjudg<g ref="char:EOLhyphen"/>ed in the Common Pleas, <hi>p.</hi> 6. <hi>Jacob Rot.</hi> 1468. upon a Demurrer as is ſaid there, <hi>fol.</hi> 617. <hi>b.</hi> The Caſe was between <hi>Stallon</hi> Plaintiff, and <hi>Brady</hi> Servant of <hi>Thomas Willows,</hi> Lord of the Mannor of <hi>Fendi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> in the County of <hi>Cambridge</hi> Defendant, in which the Fine of Five pounds ſix ſhillings and eight pence, demanded by the Lord of the Plaintiff, who was Purchaſor, for his Admittance to a Coppyhold Cottage and an Acre of Paſture let at Two pounds Thirteen ſhil<g ref="char:EOLhyphen"/>lings and four pence (which was two yeers value at a rack Rent) was adjudged an unreaſonable Fine; And in the Report of that Caſe it is to be ſeen that the Lord <hi>Cook</hi> (being then Chief Juſtice) ſaid, That for the Lord of a Mannor to demand of his Coppyhol<g ref="char:EOLhyphen"/>ders
+<pb n="5" facs="tcp:168076:3"/>
+               <!-- PDF PAGE 87 -->Two yeers Profits for his Fine for his Admittance, it was a damnable thing: And Juſtice <hi>Walmſely</hi> ſaid, That it was worſe than Extortion: and <hi>Warberton,</hi> That it was a lamentable caſe: <hi>Daniel</hi> and <hi>Foſter,</hi> Juſtices, ſaid, If mean Lords might take ſuch unreaſon<g ref="char:EOLhyphen"/>able Fines, it would overthrow all the Eſtates of Coppyholders, which are a great part of the Realm; and that upon deliberation they al agreed in one, That Copyholders are to be compared unto Land that is holden in Capite, upon ſale whereof, if a Lycence of Alienation be ſued forth, there was paid to the King but a Third Part of one yeers Profit, and ſaid, They could ſee no Reaſon that a mean Lord ſhould have any more for an Admittance to any Co<g ref="char:EOLhyphen"/>pyhold, for the Lord doth but give a Breath for his Money, and doth neither add nor diminiſh any thing, to, or from himſelf: But in Caſe where a Third Part of One yeers Profit had not been paid for a Fine, then they held the greateſt Fine that had been paid, to be a reaſonable Fine, and no more: This Caſe is Obſervable, and very worthy of our notice, as coming neereſt to the Ancient Pre<g ref="char:EOLhyphen"/>ſidents of Fines taken in former ages, appearing in the Court Rolls of Mannors, where they be truly kept, and not imbeziled (as in too many places they are) to the great injury of Copyholders, who either by the wilful, or negligent keeping of thoſe Rolls, are many times deprived of thoſe Advantages and Remedies which otherwiſe they might have againſt the Exaction and Uſurpations of their Lords, both of Fines and Herriots, and otherwiſe: For before theſe hundred yeers laſt paſt, or therabouts, there never did ariſe any Queſtions or Controverſies about the reaſonableneſs of Copyholders Fines, which do appear (ſo moderate were they before) That the Copyholders had then no Cauſe to Complain in that Particular, and the Caſes and Controverſies upon that Que<g ref="char:EOLhyphen"/>ſtion in our Books, or Reports are but of late times: Actions upon the Caſe for Words, are not ſo Rare in our yeer Books, as this Queſtion about the Reaſonableneſs of Copyholders Fines: The Fines anciently taken, were indeed but very ſmal and inconſider<g ref="char:EOLhyphen"/>able, rather Gratuities and Acknowledgments given to the Lords for their Stewards Wages, and Charges in keeping of thoſe Courts
+<pb n="6" facs="tcp:168076:4"/>
+               <!-- PDF PAGE 88 -->at which the Copyholders had their Admittances, than out of any reference or reſpect had to the rack Rent of the Copyhold; the improvement whereof by Building, or good Husbandry, and by the Induſtry and Charges of the Tenant, could in no reaſon be thought to be a good conſideration for the Lord to aſk a higher Fine; the Lord bearing no ſhare at all either in the Coſts or Pains in the improvement: And therfore that vulgar Objection made for the Juſtification of Exceſſive Fines taken in theſe daies, becauſe of the yeerly value of thoſe Lands being now much more and grea<g ref="char:EOLhyphen"/>ter than in former times, is of no moment or regard at al, for where no conſideration is of the Lords part, who is only an inſtrument, and compelable to admit as is before ſhewed, and all his Charge and Coſts is in keeping of his Courts &amp; his Stewards ſtipend: The Fine ought to be ſet with reference to that only, and not to the value of the Copihold Eſtate which moveth not from the Lord; but where he maketh a voluntary Grant as aforeſaid: The ancient Preſidents therfore of thoſe Court Rolls where they have been, and are wel kept, are the beſt Preſidents for Fines in ſuch Caſes; and where they are loſt or concealed, the Rule given in <hi>Stallon</hi> and <hi>Willowes</hi> Caſe before mentioned by the Judges there named, ſeemeth moſt agreeable to Reaſon and Equity: Or if neither like you, and that the Fines muſt needs be with reference to the value of the Land, why ſhould not that Rate by the Stat. of <hi>Weſt.</hi> 1. <hi>c.</hi> 36. al<g ref="char:EOLhyphen"/>lowed for reaſonable aide (which before the Statute was uncer<g ref="char:EOLhyphen"/>tain) to be taken by Lords for the making of their eldeſt Sons Knights, or for the Marriage of their eldeſt Daughters be thought ſufficient? Before that Statute they were both neer a Kin, both reaſonable, and yet uncertain at the Will of the Lord: Pitty it is that no Statute hath redreſſed the uncertainty of Copiholders Fines, which being redreſſed in the other Caſe, it is obſerved by Sir <hi>Edward Cook,</hi> That Certainty the Mother of Quiet and Con<g ref="char:EOLhyphen"/>cord was eſtabliſhed therein, which ſee in his <hi>Comment</hi> upon the ſame Statute, Page 232. But Copiholders they are ſtill left to their Suits with their Lords, to avoid theſe outragious and exceſſive Fines wherin they may find by experience thoſe old verſes (cited there) true:</p>
+            <pb n="7" facs="tcp:168076:4"/>
+            <!-- PDF PAGE 88 -->
+            <q xml:lang="lat">
+               <l>Cum pare Luctari dubium, cum procere ſtultum,</l>
+               <l>Cum puero-poena, cum muliere pudor.</l>
+            </q>
+            <p>In Engliſh.
+<q>
+                  <l>With Equals ſtrife's not ſure, with great ones, vain;</l>
+                  <l>Shame with a Woman, with a Child 'tis pain.</l>
+               </q>
+            </p>
+            <p>They may find the Remedie by Law alſo no better than the Diſeaſe, when the Chancellor or Judges (before whom the rea<g ref="char:EOLhyphen"/>ſonableneſs dependeth to be determined) are themſelves Lords of ſuch Copiholders, and biaſſed with their own intereſt and con<g ref="char:EOLhyphen"/>cernment; and cannot be taken for ſuch Saints, as that Pope was (of whom 8. <hi>H.</hi> 6.20. <hi>b. Rolfe</hi> telleth the tale, but nameth him not) that having committed a great offence, and being told by the Car<g ref="char:EOLhyphen"/>dinals that he had ſinned, he bad them Judge him, who (ſaying they could not, becauſe he was head of the Church) bad him Judge himſelf; who accordingly adjudged himſelf to be burnt; and was burnt, and afterwards Sainted: Indeed it cannot be thought that they will give Judgment againſt their own proper Intereſts and concernment. And therefore where any modern Preſidents, or Reports approving, or allowing exceſſive Fines (and conſequently oppreſſion) ſhal be produced, it may juſtlie de<g ref="char:EOLhyphen"/>tract from their weight and Credit, if the Judges were upon the matter concerned as in their own caſe. The Rule put by Sir <hi>Edward Cook</hi> in his Comment upon <hi>Lit.</hi> and in his 4 Report, <hi>f.</hi> 27. <hi>b.</hi> before cited (and in <hi>Godfreyes</hi> Caſe in his 11 Report, <hi>f.</hi> 44. ſaid by him to be adjudged in <hi>Stallon</hi> and <hi>Willowes</hi> Caſe aforeſaid) which is <hi>Quam rationabilis debet eſſe finis non deſinitur ſed omnibus circumſtantiis inſpectis pendet ex Juſticiariorum diſcrecone:</hi> How rea<g ref="char:EOLhyphen"/>ſonable the Fine ought to be is not defined, but all circumſtances conſidered, it dependeth upon the deſcretion of the Juſtices, is framed by Sir <hi>Edward Cook</hi> himſelf and grounded by him upon a<g ref="char:EOLhyphen"/>nother Rule in <hi>Bracton. b.</hi> 2. <hi>f.</hi> 3<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c.</hi> 22. touching time of preſcripti<g ref="char:EOLhyphen"/>on, which is <hi>Quam longum debet eſſe tempus non definitur in jure
+<pb n="8" facs="tcp:168076:5"/>
+                  <!-- PDF PAGE 89 -->ſed ex Juſticiariorum diſcrecone,</hi> How long the time ought to be is not defined by Law, but dependeth upon the diſcretion of the Juſtices <hi>&amp; mutatis mutandis</hi> applied to this Caſe, and as to this point owneth him for the ſole Author, but whether aptly applied in this Caſe may worthily be queſtioned; for where the Judge is directly, or indirectly concerned in another mans Caſe depending in Judgment before him, you may well imagine which way the biaſs will carry him: Upon Reading the 2<hi rend="sup">d</hi> 
+               <hi>Chap.</hi>
+               <note place="margin">Stat. <hi>25.</hi> Edw. <hi>3.</hi> of Treaſons.</note> of Sir <hi>Edward Cook</hi> his Pleas of the Crown, Page 22. upon the Word <hi>[ſpecifie]</hi> in the Statute of 25. <hi>Edw.</hi> 3. <hi>of Treaſons,</hi> which he would have to be ſpecially obſerved, and to ſignifie perticularized and ſet down particulary, and that nothing is left to the conſtru<g ref="char:EOLhyphen"/>ction of the Judge what ſhall be ſaid to be Treaſon, if it be not ſpecified and particularized by that Act, which he further noteth to be a happy Sanctuary or place of Refuge for Judges to fly unto that no mans blood and ruine of his Family do lie upon their Con<g ref="char:EOLhyphen"/>ſciences againſt Law; and that if conſtructions by Arguments <hi>à ſimili,</hi> or <hi>à minori ad majus</hi> had been left to the Judge, the miſ<g ref="char:EOLhyphen"/>chief before that Statute would have remained, <hi>viz</hi> diverſity of Opinions what ſhould be Treaſon, and what not, which that Sta<g ref="char:EOLhyphen"/>tute taketh away by expreſs words; may be gathered what an inconveniency it is to leave things to the conſtruction and diſcre<g ref="char:EOLhyphen"/>tion of Judges, which very inconvenience falleth out by leaving it to their diſcretions upon Demurrers, or upon Evidence to a Ju<g ref="char:EOLhyphen"/>ry upon the confeſſion or Proof of the yearly value of the Land to determine whether the Fines demanded of Copiholders be rea<g ref="char:EOLhyphen"/>ſonable or not; and a hard Caſe it is for Copiholders if they muſt be fined according to the rack values of their Copihold Eſtates at the Lords Will or the Judges (who for the moſt part are them<g ref="char:EOLhyphen"/>ſelves Lords of Mannors) ſince the Lords give nothing but their breath for their Monie as is ſaid before, and ſeeing of late years their Fines have been raiſed to ſuch an exceſſive height, wherby the ſaying of <hi>Hill</hi> in the great Caſe of the Honor of Glouceſter, 14. <hi>H.</hi> 4.9. cited upon this occaſion in <hi>Godfreyes</hi> Caſe, <hi>Cook's</hi> 11. Re<g ref="char:EOLhyphen"/>port
+<pb n="9" facs="tcp:168076:5"/>
+               <!-- PDF PAGE 89 -->
+               <hi>ſol.</hi> 44. That a Fine at the Will of the Lord is an Oppreſſion to the People, is fully verified. The vulgar Objections that Copi<g ref="char:EOLhyphen"/>holders are but Tenants at Will, and that they had their Eſtates Originally upon that condition to be fineable at the Lords Will, and that the value of the Land being higher now than in ancient times when their Eſtates were firſt granted to their Anceſtors, are no good Reaſons to warrant ſuch exceſſive Fines as have been ex<g ref="char:EOLhyphen"/>acted theſe laſt Ages, for cuſtom and conti<g ref="char:EOLhyphen"/>nuance hath ſixed an inheritance in their Eſtates,<note place="margin">Cooks <hi>4</hi> Report <hi>21.</hi> Cooks <hi>9</hi> Report <hi>76.</hi> b.</note> and made the ſame Diſcendable to their Heirs, ſo as they are not bare Tenants at Will,<note place="margin">Cooks <hi>1</hi> Report <hi>22 21.21.</hi> Edw. <hi>4.80.</hi> b. Brian Cook upon Lit. f. <hi>61.</hi>
+               </note> but have Eſtates of inheritance and actionr of Troſpaſs are maintainable againſt their Lords by them: And if their Eſtates were Originally granted upon any ſuch pre<g ref="char:EOLhyphen"/>tended Condition (which is denied) and that the Fine ought to be Aſſeſſed according to the preſent value, and not according to the Ancient value, and preſidents; yet we ſee time and cuſtom which hath fixed their Eſtates hath taken away that Condition and hath made the Juſtices to be Judges of thoſe Fines and not the Lords according to thoſe Caſes before remembred: And if the Juſtices ſhal make the preſent value material to increaſe his Fine who hath been at no coſt or pains in the improvement, and is but an in<g ref="char:EOLhyphen"/>ſtrument compelable to admit, and giveth nothing but his breath: This (under correction) ſeemeth very unreaſonable, and againſt equity and conſcience, and ſo are all modern Reports grounded upon that ſtrain, not regarding the Reaſons herin before ſet forth and eſpecially that Report of <hi>Stallon</hi> and <hi>Willowes</hi> Caſe, for as the Cuſtom which eſtabliſheth their Eſtates is to be favorably conſtru<g ref="char:EOLhyphen"/>ed, ſo that cuſtome which ſavoreth of Oppreſſion, and tendeth to the overthrow of their Eſtates, is, and deſerveth to be rejected: In <hi>Fran<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Caſe, <hi>Cooks</hi> 8 <hi>Rep f.</hi> 90. <hi>b.</hi> it is ſaid, That a benificial Con<g ref="char:EOLhyphen"/>dition which maketh or buildeth up an Eſtate, is to be conſtrued favorably; but that is odious which deſtroyeth an Eſtate, and is to be taken ſtrictly: The ſame Rule holdeth in Cuſtoms, and ther<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:168076:6"/>
+               <!-- PDF PAGE 90 -->odious is that cuſtom which by Oppreſſion overthroweth the Copiholders eſtates, &amp; as, or more worthily to be abhorred &amp; abo<g ref="char:EOLhyphen"/>liſhed as Tenures in Capite &amp; by Knights Service have been (w<hi rend="sup">ch</hi> had for their countenance Law and the defence of the Realm) by reaſon of the Slavery and Oppreſſion incident to thoſe Tenures, whereas the pretended Cuſtom of uncertain Fines reſpecteth only the private intereſt of mean Lords of Mannors, and tendeth to the deſtruction of a multitude of Copyhold Tenants, who are in all things equally rated with Freeholders of Inheritance for the Publick Service of the Common-wealth, without any conſidera<g ref="char:EOLhyphen"/>tion, or deduction at all, in reſpect of the grievous burthen of ex<g ref="char:EOLhyphen"/>ceſſive Fines, by which they are diſabled to ſettle their Eſtates (as other Freeholders do) towards payment of their Debts, the pre<g ref="char:EOLhyphen"/>ferment of their Wives and Children, or other juſt &amp; urgent oc<g ref="char:EOLhyphen"/>caſions, which may happen frequently; and ſo they ſhould be op<g ref="char:EOLhyphen"/>preſſed not by the exceſs alone, but by the multitude of Fines: All which conſidered together, with the comfortable experience of many other Oppreſſions aboliſhed, and promiſes of Redreſs of all; why may not the Copiholders now expect Relief if they ſhal Petition for the ſame? The biaſs of Self-intereſt is we hope diſ<g ref="char:EOLhyphen"/>ſolved with the laſt Parliament; and that in this, there are not ſo many Lords of Mannors to hinder ſo good and acceptable a Ser<g ref="char:EOLhyphen"/>vice to their Country: The Freehold of all Copyholds is the Lords, and the Copyhold in Caſes of Treaſon forfeited to him, whereas formerly Forfeitures of any Freehold holden of a com<g ref="char:EOLhyphen"/>mon perſon in Caſe of high Treaſon, were to the Crown: The Copyholder without ſpecial Cuſtom cannot fell Trees, nor make Leaſes for above One yeer; and divers other Priviledges the Lord hath as Herriots &amp;c. in many places: Are not theſe ſufficient, but muſt they take Fines at will too? Aſſuredly it were better for Copyholders, might they be admitted to buy out at once their Fines, Herriots, and deſtructive Cuſtoms paying for the ſame ſuch a valuable Conſideration (to be divided one Moyety thereof for the Service of the Common-wealth, and the other Moyety to their Lords) as to this preſent Parliament ſhall ſeem fitting
+<pb n="11" facs="tcp:168076:6"/>
+               <!-- PDF PAGE 90 -->and reaſonable: This is Written for the general Good of the Copyholders of <hi>England,</hi> who if they ſhal neglect the preſent happy Opportunity for their Freedom, will hardly ever meet with the like again.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
